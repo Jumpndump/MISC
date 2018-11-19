@@ -1,0 +1,11 @@
+Challenge made for Blackhoodie 2018 edition.
+Lvl: 0
+
+Goal: Defuse the bomb
+Hint: patch me if you can
+
+######## SPOILING DESC #########
+This is a very simple exercise of patching to take the wanted jump.
+It implements an anti-debugg technique, like some malwares does. The aim is to learn how to simply get rid of this.
+You'll be able to see how looks like the pattern of "if" and "switch" conditionnals in assembly code and basic encryption loops.
+################################
